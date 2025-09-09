@@ -2,9 +2,7 @@
 
 # 🚀 Welcome to My Digital Universe
 
-[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQGu8Ssm-NKIvQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726453372980?e=1736985600&v=beta&t=zc2miwjy-ynSSHMMMNrFDHoQpGZvMPhwq-tGy7zaNec)](https://www.linkedin.com/in/bimaprawangsaputra/)
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Bima+Prawang+Saputra;Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Enthusiast+%E2%9A%A1;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Bima+Prawang+Saputra;Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Expert+%E2%9A%A1;N3+%7C+N4+Certified+%F0%9F%8E%93;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -25,13 +23,14 @@ const bima = {
     name: "Bima Prawang Saputra",
     location: "Indonesia 🇮🇩",
     role: "Full Stack Developer",
-    currentFocus: "MERN Stack Development",
+    currentFocus: "Advanced MERN Stack & Cloud Architecture",
+    certifications: ["N3 Japanese Language", "N4 Japanese Language"],
     languages: ["JavaScript", "TypeScript", "Python", "Kotlin", "PHP"],
-    frameworks: ["React", "Node.js", "Express", "Laravel", "Flutter"],
+    frameworks: ["React", "Node.js", "Express", "Laravel", "CodeIgniter", "Flutter"],
     databases: ["MongoDB", "MySQL", "PostgreSQL"],
-    cloud: ["AWS", "Google Cloud", "Firebase"],
-    currentlyLearning: ["MERN Stack", "DevOps", "AI/ML"],
-    funFact: "I enjoy learning new things and constantly expanding my knowledge 🧠",
+    cloud: ["AWS", "Docker", "Google Cloud", "Firebase"],
+    currentlyLearning: ["Advanced MERN", "AWS Solutions Architecture", "Docker Orchestration"],
+    specialties: ["Web Scraping", "API Development", "Cloud Deployment"],
     motto: "Code with passion, learn with purpose! 💡"
 };
 ```
@@ -61,6 +60,7 @@ const bima = {
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -127,21 +127,24 @@ const bima = {
 
 ```mermaid
 graph TD
-    A[🎯 Current Learning Path] --> B[MERN Stack Mastery]
-    A --> C[DevOps & Cloud]
-    A --> D[AI/ML Integration]
+    A[🎯 Current Learning Path] --> B[Advanced MERN Stack]
+    A --> C[Cloud Architecture]
+    A --> D[Enterprise Development]
     
-    B --> E[Advanced React Patterns]
-    B --> F[Node.js Performance]
-    B --> G[MongoDB Optimization]
+    B --> E[React Performance Optimization]
+    B --> F[Node.js Microservices]
+    B --> G[MongoDB Advanced Queries]
+    B --> H[Express.js Security]
     
-    C --> H[Docker & Kubernetes]
-    C --> I[AWS Services]
-    C --> J[CI/CD Pipelines]
+    C --> I[AWS Solutions Architecture]
+    C --> J[Docker Containerization]
+    C --> K[Kubernetes Orchestration]
+    C --> L[CI/CD with Jenkins]
     
-    D --> K[TensorFlow.js]
-    D --> L[Python ML Libraries]
-    D --> M[AI-Powered Apps]
+    D --> M[CodeIgniter Framework]
+    D --> N[API Gateway Design]
+    D --> O[Scalable Architecture]
+    D --> P[Web Scraping Automation]
 ```
 
 </div>
@@ -152,16 +155,19 @@ graph TD
 
 <div align="center">
 
-| 🚀 **Skills** | 📈 **Level** | 🎯 **Experience** |
-|:-------------:|:------------:|:-----------------:|
-| **React.js** | ⭐⭐⭐⭐⭐ | 3+ years |
-| **Node.js** | ⭐⭐⭐⭐⭐ | 3+ years |
-| **Express.js** | ⭐⭐⭐⭐⭐ | 3+ years |
-| **Laravel** | ⭐⭐⭐⭐ | 2+ years |
-| **Kotlin** | ⭐⭐⭐⭐ | 2+ years |
-| **Flutter** | ⭐⭐⭐⭐ | 2+ years |
-| **Python** | ⭐⭐⭐ | 1+ years |
-| **DevOps** | ⭐⭐⭐ | 1+ years |
+| 🚀 **Skills** | 📈 **Level** | 🎯 **Experience** | 🏆 **Certification** |
+|:-------------:|:------------:|:-----------------:|:------------------:|
+| **React.js** | ⭐⭐⭐⭐⭐ | 3+ years | Advanced |
+| **Node.js** | ⭐⭐⭐⭐⭐ | 3+ years | Expert |
+| **Express.js** | ⭐⭐⭐⭐⭐ | 3+ years | Expert |
+| **Laravel** | ⭐⭐⭐⭐ | 2+ years | Advanced |
+| **CodeIgniter** | ⭐⭐⭐⭐ | 2+ years | Advanced |
+| **Kotlin** | ⭐⭐⭐⭐ | 2+ years | Advanced |
+| **Flutter** | ⭐⭐⭐⭐ | 2+ years | Advanced |
+| **Docker** | ⭐⭐⭐⭐ | 2+ years | Advanced |
+| **AWS** | ⭐⭐⭐⭐ | 2+ years | Solutions Architect |
+| **Python** | ⭐⭐⭐ | 1+ years | Intermediate |
+| **Japanese** | ⭐⭐⭐⭐ | N3/N4 Certified | JLPT N3, N4 |
 
 </div>
 
@@ -243,18 +249,20 @@ Other        45 mins         █░░░░░░░░░░░░░░░░
 
 ---
 
-## 🎯 Goals for 2024
+## 🎯 Goals for 2025
 
 <div align="center">
 
-- [ ] 🚀 Master MERN Stack Development
-- [ ] ☁️ Get AWS Certified Solutions Architect
-- [ ] 📱 Launch 3 Mobile Apps on Play Store
-- [ ] 🤖 Build AI-Powered Web Applications
-- [ ] 📚 Contribute to 10+ Open Source Projects
-- [ ] 🎓 Complete Advanced DevOps Course
-- [ ] 💼 Land a Senior Developer Role
-- [ ] 🌟 Reach 1000 GitHub Stars
+- [ ] 🚀 Master Advanced MERN Stack Architecture
+- [ ] ☁️ Complete AWS Solutions Architect Professional
+- [ ] 🐳 Master Docker & Kubernetes Orchestration
+- [ ] 📱 Launch 5 Production-Ready Applications
+- [ ] 🤖 Build Enterprise-Level Web Scraping Tools
+- [ ] 📚 Contribute to 15+ Open Source Projects
+- [ ] 🎓 Obtain Advanced CodeIgniter Certification
+- [ ] 💼 Lead Technical Team as Senior Architect
+- [ ] 🌟 Reach 2000 GitHub Stars
+- [ ] 🇯🇵 Achieve JLPT N2 Japanese Certification
 
 </div>
 
@@ -272,7 +280,11 @@ const funFacts = {
     📚: "I read tech blogs during breakfast",
     🎵: "Lo-fi music = productivity boost",
     🍕: "Pizza is my debugging fuel",
-    🚀: "I dream in JavaScript and wake up in Python"
+    🚀: "I dream in JavaScript and wake up in Python",
+    🇯🇵: "I can code while thinking in Japanese (N3/N4 certified)",
+    🐳: "Docker containers are my digital LEGO blocks",
+    ☁️: "AWS is my playground for cloud experiments",
+    🕷️: "Web scraping is like digital archaeology to me"
 };
 
 console.log("Ready to code and collaborate! 🚀");
