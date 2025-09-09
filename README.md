@@ -18,22 +18,25 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-```javascript
-const bima = {
-    name: "Bima Prawang Saputra",
-    location: "Indonesia 🇮🇩",
-    role: "Full Stack Developer",
-    currentFocus: "Advanced MERN Stack & Cloud Architecture",
-    certifications: ["N3 Japanese Language", "N4 Japanese Language"],
-    languages: ["JavaScript", "TypeScript", "Python", "Kotlin", "PHP"],
-    frameworks: ["React", "Node.js", "Express", "Laravel", "CodeIgniter", "Flutter"],
-    databases: ["MongoDB", "MySQL", "PostgreSQL"],
-    cloud: ["AWS", "Docker", "Google Cloud", "Firebase"],
-    currentlyLearning: ["Advanced MERN", "AWS Solutions Architecture", "Docker Orchestration"],
-    specialties: ["Web Scraping", "API Development", "Cloud Deployment"],
-    motto: "Code with passion, learn with purpose! 💡"
-};
-```
+👋 **Hi, I'm Bima Prawang Saputra** - A passionate Full Stack Developer from Indonesia 🇮🇩
+
+🎯 **Current Focus:** Advanced MERN Stack & Cloud Architecture
+
+🏆 **Certifications:** N3 Japanese Language | N4 Japanese Language
+
+💻 **Languages:** JavaScript, TypeScript, Python, Kotlin, PHP
+
+🛠️ **Frameworks:** React, Node.js, Express, Laravel, CodeIgniter, Flutter
+
+🗄️ **Databases:** MongoDB, MySQL, PostgreSQL
+
+☁️ **Cloud & DevOps:** AWS, Docker, Google Cloud, Firebase
+
+📚 **Currently Learning:** Advanced MERN, AWS Solutions Architecture, Docker Orchestration
+
+⚡ **Specialties:** Web Scraping, API Development, Cloud Deployment
+
+💡 **Motto:** "Code with passion, learn with purpose!"
 
 <br clear="right"/>
 
@@ -44,6 +47,7 @@ const bima = {
 <div align="center">
 
 ### 🎨 Frontend Technologies
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
@@ -56,6 +60,7 @@ const bima = {
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### ⚙️ Backend Technologies
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -67,18 +72,21 @@ const bima = {
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 📱 Mobile Development
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### 🗄️ Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ### ☁️ Cloud & DevOps
+
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -86,6 +94,7 @@ const bima = {
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 
 ### 🛠️ Tools & Others
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -130,17 +139,17 @@ graph TD
     A[🎯 Current Learning Path] --> B[Advanced MERN Stack]
     A --> C[Cloud Architecture]
     A --> D[Enterprise Development]
-    
+
     B --> E[React Performance Optimization]
     B --> F[Node.js Microservices]
     B --> G[MongoDB Advanced Queries]
     B --> H[Express.js Security]
-    
+
     C --> I[AWS Solutions Architecture]
     C --> J[Docker Containerization]
     C --> K[Kubernetes Orchestration]
     C --> L[CI/CD with Jenkins]
-    
+
     D --> M[CodeIgniter Framework]
     D --> N[API Gateway Design]
     D --> O[Scalable Architecture]
@@ -155,19 +164,19 @@ graph TD
 
 <div align="center">
 
-| 🚀 **Skills** | 📈 **Level** | 🎯 **Experience** | 🏆 **Certification** |
-|:-------------:|:------------:|:-----------------:|:------------------:|
-| **React.js** | ⭐⭐⭐⭐⭐ | 3+ years | Advanced |
-| **Node.js** | ⭐⭐⭐⭐⭐ | 3+ years | Expert |
-| **Express.js** | ⭐⭐⭐⭐⭐ | 3+ years | Expert |
-| **Laravel** | ⭐⭐⭐⭐ | 2+ years | Advanced |
-| **CodeIgniter** | ⭐⭐⭐⭐ | 2+ years | Advanced |
-| **Kotlin** | ⭐⭐⭐⭐ | 2+ years | Advanced |
-| **Flutter** | ⭐⭐⭐⭐ | 2+ years | Advanced |
-| **Docker** | ⭐⭐⭐⭐ | 2+ years | Advanced |
-| **AWS** | ⭐⭐⭐⭐ | 2+ years | Solutions Architect |
-| **Python** | ⭐⭐⭐ | 1+ years | Intermediate |
-| **Japanese** | ⭐⭐⭐⭐ | N3/N4 Certified | JLPT N3, N4 |
+|  🚀 **Skills**  | 📈 **Level** | 🎯 **Experience** | 🏆 **Certification** |
+| :-------------: | :----------: | :---------------: | :------------------: |
+|  **React.js**   |  ⭐⭐⭐⭐⭐  |     3+ years      |       Advanced       |
+|   **Node.js**   |  ⭐⭐⭐⭐⭐  |     3+ years      |        Expert        |
+| **Express.js**  |  ⭐⭐⭐⭐⭐  |     3+ years      |        Expert        |
+|   **Laravel**   |   ⭐⭐⭐⭐   |     2+ years      |       Advanced       |
+| **CodeIgniter** |   ⭐⭐⭐⭐   |     2+ years      |       Advanced       |
+|   **Kotlin**    |   ⭐⭐⭐⭐   |     2+ years      |       Advanced       |
+|   **Flutter**   |   ⭐⭐⭐⭐   |     2+ years      |       Advanced       |
+|   **Docker**    |   ⭐⭐⭐⭐   |     2+ years      |       Advanced       |
+|     **AWS**     |   ⭐⭐⭐⭐   |     2+ years      | Solutions Architect  |
+|   **Python**    |    ⭐⭐⭐    |     1+ years      |     Intermediate     |
+|  **Japanese**   |   ⭐⭐⭐⭐   |  N3/N4 Certified  |     JLPT N3, N4      |
 
 </div>
 
@@ -216,16 +225,18 @@ graph TD
 <div align="center">
 
 ### 🚀 Sporcle Complete Scraper
+
 [![Sporcle Scraper](https://img.shields.io/badge/Python-Advanced_Web_Scraper-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/bimapopo345/sporcle-scraper)
 
-*Advanced web scraping tool with intelligent encoding detection and decryption capabilities*
+_Advanced web scraping tool with intelligent encoding detection and decryption capabilities_
 
 **Tech Stack:** `Python` `BeautifulSoup` `Selenium` `Regex` `JSON`
 
 ---
 
 ### 🌟 More Projects Coming Soon...
-*Currently working on exciting MERN stack applications and mobile apps!*
+
+_Currently working on exciting MERN stack applications and mobile apps!_
 
 </div>
 
@@ -236,6 +247,7 @@ graph TD
 <div align="center">
 
 <!--START_SECTION:waka-->
+
 ```text
 JavaScript   8 hrs 15 mins   ████████████░░░░░░░░░░░░░   48.2%
 TypeScript   3 hrs 45 mins   █████░░░░░░░░░░░░░░░░░░░░   22.1%
@@ -243,6 +255,7 @@ Python       2 hrs 30 mins   ███░░░░░░░░░░░░░░
 React        1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   10.3%
 Other        45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░    4.7%
 ```
+
 <!--END_SECTION:waka-->
 
 </div>
@@ -272,23 +285,29 @@ Other        45 mins         █░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-```javascript
-const funFacts = {
-    🎯: "I can debug code faster with coffee ☕",
-    🌙: "I'm a night owl - best coding happens after 10 PM",
-    🎮: "Gaming helps me think of creative solutions",
-    📚: "I read tech blogs during breakfast",
-    🎵: "Lo-fi music = productivity boost",
-    🍕: "Pizza is my debugging fuel",
-    🚀: "I dream in JavaScript and wake up in Python",
-    🇯🇵: "I can code while thinking in Japanese (N3/N4 certified)",
-    🐳: "Docker containers are my digital LEGO blocks",
-    ☁️: "AWS is my playground for cloud experiments",
-    🕷️: "Web scraping is like digital archaeology to me"
-};
+🎯 I can debug code faster with coffee ☕
 
-console.log("Ready to code and collaborate! 🚀");
-```
+🌙 I'm a night owl - best coding happens after 10 PM
+
+🎮 Gaming helps me think of creative solutions
+
+📚 I read tech blogs during breakfast
+
+🎵 Lo-fi music = productivity boost
+
+🍕 Pizza is my debugging fuel
+
+🚀 I dream in JavaScript and wake up in Python
+
+🇯🇵 I can code while thinking in Japanese (N3/N4 certified)
+
+🐳 Docker containers are my digital LEGO blocks
+
+☁️ AWS is my playground for cloud experiments
+
+🕷️ Web scraping is like digital archaeology to me
+
+**Ready to code and collaborate! 🚀**
 
 </div>
 
@@ -314,7 +333,7 @@ console.log("Ready to code and collaborate! 🚀");
 
 **⭐ From [bimapopo345](https://github.com/bimapopo345) with ❤️**
 
-*Last updated: January 2025*
+_Last updated: January 2025_
 
 </div>
 
